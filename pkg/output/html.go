@@ -18,7 +18,7 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
 	@Repository:  https://github.com/edoardottt/cariddi
 
-	@Author:      edoardottt, https://www.edoardottt.com
+	@Author:      edoardottt, https://edoardottt.com
 
 	@License: https://github.com/edoardottt/cariddi/blob/main/LICENSE
 
@@ -91,7 +91,7 @@ const (
 		<h1>Cariddi - Security Scanner Report</h1>
 		<ul class="meta">
 			<li><a href="https://github.com/edoardottt/cariddi" target="_blank" rel="noopener noreferrer">github.com/edoardottt/cariddi</a></li>
-			<li>by edoardottt - <a href="https://www.edoardottt.com" target="_blank" rel="noopener noreferrer">edoardottt.com</a></li>
+			<li>by edoardottt - <a href="https://edoardottt.com" target="_blank" rel="noopener noreferrer">edoardottt.com</a></li>
 			<li>Released under <a href="https://github.com/edoardottt/cariddi/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">GPLv3 License</a></li>
 		</ul>
 	</div>
